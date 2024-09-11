@@ -26,3 +26,4 @@
 <img src="assets/previews/detail page.png" width="200">
 <img src="assets/previews/cart page.png" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.shoe-shop-360"/>  
